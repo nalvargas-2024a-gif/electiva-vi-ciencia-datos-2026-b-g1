@@ -56,7 +56,7 @@ flowchart LR
     C --> D[Visualización<br/>Dashboard interactivo]
 ```
 
-*(El bloque `mermaid` se renderiza automáticamente como diagrama al verlo en GitHub.)*
+
 
 ---
 
