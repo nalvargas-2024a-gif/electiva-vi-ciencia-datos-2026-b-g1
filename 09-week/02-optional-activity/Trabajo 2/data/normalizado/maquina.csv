@@ -1,0 +1,5 @@
+id_maquina,nombre,linea,anio_instalacion
+M-01,Extrusora A,Línea 1,2019
+M-02,Extrusora B,Línea 1,2021
+M-03,Selladora C,Línea 2,2012
+M-04,Cortadora D,Línea 2,2023
