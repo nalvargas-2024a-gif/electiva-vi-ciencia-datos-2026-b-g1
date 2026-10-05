@@ -4,8 +4,7 @@
 
 | | |
 |---|---|
-| **Estudiante** | _[Nombre completo — mismo `FULL_NAME` del bloque CONFIG del repo de perfil]_ |
-| **Usuario GitHub** | _[`GITHUB_USER`]_ |
+| **Estudiante** | Nicol Alexandra Vargas Sánchez  |
 | **Caso** | Predicción de retrasos en órdenes de producción (hilo conductor del Corte 1) |
 | **Dataset** | `data/ordenes_produccion_raw.csv` — extracto sintético de un ERP (438 filas × 13 columnas) |
 
