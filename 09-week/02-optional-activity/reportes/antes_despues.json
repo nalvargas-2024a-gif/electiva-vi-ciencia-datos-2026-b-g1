@@ -1,0 +1,50 @@
+{
+  "antes": {
+    "etiqueta": "antes",
+    "filas": 10000,
+    "columnas": 14,
+    "filas_duplicadas_exactas": 0,
+    "celdas_nulas": 0,
+    "bom_en_primer_nombre_de_columna": 1,
+    "nombres_de_columna_no_snake_case": 14,
+    "nombres_con_unidad_entre_corchetes": 5,
+    "columnas_de_bandera_guardadas_como_texto_0_1": 6
+  },
+  "despues": {
+    "etiqueta": "después",
+    "filas": 10000,
+    "columnas": 15,
+    "filas_duplicadas_exactas": 0,
+    "celdas_nulas": 0,
+    "bom_en_primer_nombre_de_columna": 0,
+    "nombres_de_columna_no_snake_case": 0,
+    "nombres_con_unidad_entre_corchetes": 0,
+    "columnas_de_bandera_guardadas_como_texto_0_1": 0,
+    "tipos": {
+      "udi": "int64",
+      "product_id": "str",
+      "type": "str",
+      "air_temperature_k": "float64",
+      "process_temperature_k": "float64",
+      "rotational_speed_rpm": "int64",
+      "torque_nm": "float64",
+      "tool_wear_min": "int64",
+      "machine_failure": "bool",
+      "twf": "bool",
+      "hdf": "bool",
+      "pwf": "bool",
+      "osf": "bool",
+      "rnf": "bool",
+      "inconsistencia_falla": "bool"
+    },
+    "inconsistencias_de_falla_marcadas": 27,
+    "falla_sin_ningun_modo": 9,
+    "modo_sin_falla_de_maquina": 18,
+    "filas_con_mas_de_un_modo": 24,
+    "filas_que_discrepan_de_la_regla_documentada": {
+      "hdf": 0,
+      "pwf": 0,
+      "osf": 0
+    }
+  }
+}

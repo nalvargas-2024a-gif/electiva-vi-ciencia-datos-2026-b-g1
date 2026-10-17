@@ -1,0 +1,17 @@
+{
+  "status": 200,
+  "statusText": "OK",
+  "data": {
+    "name": "AI4I 2020 Predictive Maintenance Dataset",
+    "repository_url": "https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset",
+    "num_instances": 10000,
+    "num_features": 6,
+    "year_of_dataset_creation": 2020,
+    "last_updated": "Wed Feb 14 2024",
+    "variables": [
+      {"name": "UID", "role": "ID", "type": "Integer", "units": null},
+      {"name": "Product ID", "role": "ID", "type": "Categorical", "units": null},
+      {"name": "Type", "role": "Feature", "type": "Categorical", "units": null}
+    ]
+  }
+}

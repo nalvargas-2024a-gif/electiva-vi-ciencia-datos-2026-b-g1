@@ -1,0 +1,4 @@
+name,role,type,units
+UID,ID,Integer,
+Product ID,ID,Categorical,
+Type,Feature,Categorical,
